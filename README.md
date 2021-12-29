@@ -1,2 +1,2 @@
-# leargit
-To learn how to use git
+# lear git
+To learn how to use github for projects
